@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculatorLibrary/CalculatorLibrary.csproj" Id="841a4fef-9112-44f9-8a65-5d9f20e01a5c" />
+  <Project Path="mantpaa.Calculator/mantpaa.Calculator.csproj" />
+</Solution>
